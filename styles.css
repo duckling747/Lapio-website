@@ -3,6 +3,11 @@
   height: 100px;
   background-color: red;
   position: relative;
+  text-transform: uppercase;
+  text-align: center;
+  border-style: solid;
+  border-width: 15px;
+  border-color: green;
 }
 
 .tokaLaatikko {
@@ -10,8 +15,13 @@
   height: 100px;
   background-color: yellow;
   position: relative;
-  left: 220px;
-  bottom: 115px;
+  left: 235px;
+  bottom: 130px;
+  text-transform: uppercase;
+  text-align: center;
+  border-style: solid;
+  border-width: 15px;
+  border-color: red;
 }
 
 .kolmasLaatikko {
@@ -19,6 +29,17 @@
   height: 100px;
   background-color: green;
   position: relative;
-  left: 440px;
-  bottom: 230px;
+  left: 470px;
+  bottom: 260px;
+  text-transform: uppercase;
+  text-align: center;
+  border-style: solid;
+  border-width: 15px;
+  border-color:yellow;
+}
+
+p {
+  position: relative;
+  top: 20%;
+  color: blue;
 }
