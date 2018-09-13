@@ -1,0 +1,24 @@
+.ekaLaatikko {
+  width: 200px;
+  height: 100px;
+  background-color: red;
+  position: relative;
+}
+
+.tokaLaatikko {
+  width: 200px;
+  height: 100px;
+  background-color: yellow;
+  position: relative;
+  left: 220px;
+  bottom: 115px;
+}
+
+.kolmasLaatikko {
+  width: 200px;
+  height: 100px;
+  background-color: green;
+  position: relative;
+  left: 440px;
+  bottom: 230px;
+}
