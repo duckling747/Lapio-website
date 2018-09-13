@@ -1,1 +1,15 @@
-p { background-color: red; }
+* {
+  color: darkred;
+}
+
+ul li {
+  color: violet;
+}
+
+.blueHeaders {
+  color: blue;
+}
+
+#jatkuu {
+  color: red;
+}
